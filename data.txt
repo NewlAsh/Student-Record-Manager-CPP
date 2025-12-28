@@ -1,0 +1,36 @@
+                   Record                 
+
+Student 1: 
+
+Name: abc
+Roll No.: 123
+
+Marks:  
+Computer(Theory):  12
+Physics:  15
+Mathematics:  17
+Electronics and Communication:  18
+Humanities:  19
+
+Average Marks of this student is:  16.2
+
+Status: FAILED
+
+
+Student 2: 
+
+Name: xyz
+Roll No.: 13
+
+Marks:  
+Computer(Theory):  7
+Physics:  12
+Mathematics:  13
+Electronics and Communication:  8
+Humanities:  5
+
+Average Marks of this student is:  9
+
+Status: FAILED
+
+
